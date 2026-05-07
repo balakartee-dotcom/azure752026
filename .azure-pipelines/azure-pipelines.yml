@@ -4,7 +4,7 @@ trigger:
 
 variables:
 - name: imageName
-  value: 'venkateshs111/azure_devops_multistage'
+  value: 'karthik20151987/azure_devops_multistage'
 
 stages:
 
