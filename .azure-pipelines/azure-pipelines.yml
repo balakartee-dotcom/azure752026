@@ -5,7 +5,7 @@ trigger:
 variables:
 - name: imageName
   value: 'karthik20151987/azure_devops_multistage'
-
+#test
 stages:
 
 # ================= DEV =================
